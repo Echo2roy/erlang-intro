@@ -1,2 +1,2 @@
 # erlang-intro
-Holds code written while learning Erlang
+Holds code written while learning Erlang.
